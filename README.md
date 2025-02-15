@@ -4,9 +4,10 @@
 
 1. ["Spectral graph model of brain oscillations"](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24991)
 2. ["Spectral graph theory of brain oscillations -- revisited and improved"](https://www.sciencedirect.com/science/article/pii/S1053811922000490)
-3. ["Stability and dynamics of a spectral graph model of brain oscillations"](https://direct.mit.edu/netn/article/7/1/48/112205/Stability-and-dynamics-of-a-spectral-graph-model). Refer to this paper for the stability analysis that is used in the optimization codes.
-4. ["Structure-function models of temporal, spatial, and spectral characteristics of non-invasive whole brain functional imaging."](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.959557/full)
-5. ["Impaired long-range excitatory time scale predicts abnormal neural oscillations and cognitive deficits in Alzheimer's disease "](https://www.researchsquare.com/article/rs-2579392/v3)
+3. ["Altered excitatory and inhibitory neuronal subpopulation parameters are distinctly associated with tau and amyloid in Alzheimer’s disease"](https://elifesciences.org/articles/77850#s3)
+4. ["Stability and dynamics of a spectral graph model of brain oscillations"](https://direct.mit.edu/netn/article/7/1/48/112205/Stability-and-dynamics-of-a-spectral-graph-model). Refer to this paper for the stability analysis that is used in the optimization codes.
+5. ["Structure-function models of temporal, spatial, and spectral characteristics of non-invasive whole brain functional imaging."](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.959557/full)
+6. ["Impaired long-range excitatory time scale predicts abnormal neural oscillations and cognitive deficits in Alzheimer's disease "](https://www.researchsquare.com/article/rs-2579392/v3)
 
 This repository is developed based on the original model's [repository](https://github.com/Raj-Lab-UCSF/spectrome).
 
