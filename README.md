@@ -44,6 +44,6 @@ After completing the set-up for conda environment and `spectrome` path, you may 
     - `individual_connectomes_reordered.nc`: individual subject's connectivity matrices (N = 36).
     - `individual_psd_reordered_matlab.nc`: individual subject's MEG spectra (N = 36).
 
-- To run optimization, refer to the scripts in the scripts folder. `sgm_fit_local.py` runs the local sgm for every region separately. `sgm_fit.py` runs the global sgm and estimates global model parameters. `sgm_ad_pet.py` runs global sgm incorporating Ab and tau in patients with AD. 
+- To run optimization, refer to the scripts in the scripts folder. `sgm_fit_local.py` runs the local sgm for every region separately. `sgm_fit.py` runs the global sgm and estimates global model parameters. 
 
 - The jobscripts have `.sh` files to launch optimization jobs either in and SGE or a SLURM cluster. You'll need to modify them according to the cluster you're working with. 
